@@ -4,6 +4,7 @@
 # Private Information
 .private
 .gitconfig
+raycast/.config/raycast/config.json
 
 # ASDF
 .tool-versions
