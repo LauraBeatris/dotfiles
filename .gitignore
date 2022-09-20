@@ -4,3 +4,6 @@
 # Private Information
 .private
 .gitconfig
+
+# ASDF
+.tool-versions
