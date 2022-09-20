@@ -1,0 +1,25 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+
+# Binaries
+brew "git"
+brew "node"
+
+# Essentials 
+brew "fzf"
+brew "autojump"
+brew "gawk"
+brew "genupg"
+brew "stow"
+brew "zsh"
+
+# Development
+brew "asdf"
+
+# Apps
+cask "github"
+cask "slack"
+cask "spotify"
+cask "raycast"
+cask "google-chrome"
+cask "visual-studio-code"
