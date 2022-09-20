@@ -21,3 +21,12 @@ The Brewfile from this repository should be updated accordingly when installing 
 ```bash
 brew bundle dump
 ```
+
+## Symlinks
+
+*Learning resource: https://www.jakewiesler.com/blog/managing-dotfiles#understanding-stow*
+
+Use `stow` to create symlinks for each package 
+```bash
+stow ./zsh
+```
