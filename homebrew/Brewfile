@@ -17,6 +17,7 @@ brew "zsh"
 brew "asdf"
 
 # Apps
+cask "kap"
 cask "github"
 cask "slack"
 cask "spotify"
