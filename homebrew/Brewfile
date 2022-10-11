@@ -16,6 +16,7 @@ brew "zsh"
 # Development
 brew "asdf"
 brew "linear-linear"
+brew "postico"
 
 # Apps
 cask "kap"
